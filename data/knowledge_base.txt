@@ -1,0 +1,7 @@
+RAG: The HR chatbot uses Retrieval Augmented Generation to answer employee queries using internal HR documents.
+
+LEAVE: Employees are entitled to 20 paid leaves per year. Casual and sick leaves must be applied through the HR portal.
+
+ONBOARDING: New employees must complete documentation, IT setup, and compliance training within the first week.
+
+SECURITY: Employee data is protected using access controls and security guardrails.
